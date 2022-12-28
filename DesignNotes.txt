@@ -1,0 +1,9 @@
+playerTurn
+	automaticGameActions
+		hasPlayerPassedGo
+		playerEarnsSalary
+
+
+"C" key
+	playerOnChanceBlock
+		playerDoesWhatSpecialCardInstructs
